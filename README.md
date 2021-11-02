@@ -1,12 +1,12 @@
+# **FlowDiviner: A Spatio-Temporal Network TrafficPrediction Method Based on Graph Neural Network**
+
+## data processing
+
+* get the  adjacency matrix that adds self-connection
+* get the node degree matrix
+* get the flow characteristic matrix 
+
 ## model
-### frame
-#### prepocess
-the first problem is that how to input the data into model
-attempt solve one : use the dgl self CoreGraphData 
-* solve it loss 3 hours download: proxy problem
 
-#### the model of GCN
-the first problem is GMHCN
-
-the second problem is GCNReLu
+* GCN model
 
